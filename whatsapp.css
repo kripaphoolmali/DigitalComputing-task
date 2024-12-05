@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+  margin: 0%;
+}
+
+body{
+    background-color: rgb(240, 220, 139);
+    padding: 20px 50px;
+}
+
+
+.what1{
+    display: flex;
+    justify-content: space-between;
+}
+
+#head1{
+    color: rgb(78, 144, 13);
+    text-shadow: 1px 1px 1px 1px black;
+    fot
+
+}
+button{
+    background-color: rgb(78, 144, 13);
+    border-radius: 20px;
+    padding: 8px 20px;
+    border-width: ;
+    font-size: large;
+}
+
+.white{ background-color: aliceblue;
+ 
+  border-radius: 40px ;
+  padding: 50px;
+  margin: 50px 50px 90px 90px;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.w1{
+
+}
+.qr{
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    border: 2px solid black;
+}
+.p1{
+  text-align: center;
+}
