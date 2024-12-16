@@ -1,0 +1,23 @@
+.h1{background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border-radius: 250px;
+    padding: 50px;
+    margin: 50px;
+
+}
+
+p{ 
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border-radius: 250px;
+    padding: 50px;
+    margin: 50px;
+    transform: skew(50deg);
+
+}
+p:hover{
+    flex-direction: column;
+    
+}
