@@ -1,0 +1,34 @@
+
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+
+
+.text-lg{
+    font-size: 60pt;
+}
+
+.text-color{
+    color: rgb(0, 79, 139);
+}
+
+
+.my-10{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+
+.mt-40{
+    margin-top: 40;
+}
+
+.text-d{
+    text-decoration: dotted;
+}
